@@ -1,0 +1,1700 @@
+*****ALL SUPER BOWL DATA*****
+
+Date: 15-Jan-67
+ Super Bowl: I
+ Attendance: 61946
+ Winning Quarterback: Bart Starr
+ Winning Couch: Vince Lombardi
+ Winning Team: Green Bay Packers
+ Winning Points: 35
+ Losing Quarterback: Len Dawson
+ Losing Couch: Hank Stram
+ Losing Team: Kansas City Chiefs
+ Losing Points: 10
+ MVP: Bart Starr
+ Stadium: Memorial Coliseum
+ City: Los Angeles
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 14-Jan-68
+ Super Bowl: II
+ Attendance: 75546
+ Winning Quarterback: Bart Starr
+ Winning Couch: Vince Lombardi
+ Winning Team: Green Bay Packers
+ Winning Points: 33
+ Losing Quarterback: Daryle Lamonica 
+ Losing Couch: John Rauch
+ Losing Team: Oakland Raiders
+ Losing Points: 14
+ MVP: Bart Starr
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 12-Jan-69
+ Super Bowl: III
+ Attendance: 75389
+ Winning Quarterback: Joe Namath
+ Winning Couch: Weeb Ewbank
+ Winning Team: New York Jets
+ Winning Points: 16
+ Losing Quarterback: Earl Morrall Johnny Unitas
+ Losing Couch: Don Shula
+ Losing Team: Baltimore Colts
+ Losing Points: 7
+ MVP: Joe Namath
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 11-Jan-70
+ Super Bowl: IV
+ Attendance: 80562
+ Winning Quarterback: Len Dawson Mike Livingston
+ Winning Couch: Hank Stram
+ Winning Team: Kansas City Chiefs
+ Winning Points: 23
+ Losing Quarterback: Joe Kapp
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 7
+ MVP: Len Dawson
+ Stadium: Tulane Stadium
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 17-Jan-71
+ Super Bowl: V
+ Attendance: 79204
+ Winning Quarterback: Earl Morrall Johnny Unitas
+ Winning Couch: Don McCafferty
+ Winning Team: Baltimore Colts
+ Winning Points: 16
+ Losing Quarterback: Craig Morton
+ Losing Couch: Tom Landry
+ Losing Team: Dallas Cowboys
+ Losing Points: 13
+ MVP: Chuck Howley
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 16-Jan-72
+ Super Bowl: VI
+ Attendance: 81023
+ Winning Quarterback: Roger Staubach
+ Winning Couch: Tom Landry
+ Winning Team: Dallas Cowboys
+ Winning Points: 24
+ Losing Quarterback: Bob Griese
+ Losing Couch: Don Shula
+ Losing Team: Miami Dolphins
+ Losing Points: 3
+ MVP: Roger Staubach
+ Stadium: Tulane Stadium
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 14-Jan-73
+ Super Bowl: VII
+ Attendance: 90182
+ Winning Quarterback: Bob Griese
+ Winning Couch: Don Shula
+ Winning Team: Miami Dolphins
+ Winning Points: 14
+ Losing Quarterback: Bill Kilmer
+ Losing Couch: George Allen
+ Losing Team: Washington Redskins
+ Losing Points: 7
+ MVP: Jake Scott
+ Stadium: Memorial Coliseum
+ City: Los Angeles
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 13-Jan-74
+ Super Bowl: VIII
+ Attendance: 71882
+ Winning Quarterback: Bob Griese
+ Winning Couch: Don Shula
+ Winning Team: Miami Dolphins
+ Winning Points: 24
+ Losing Quarterback: Fran Tarkenton
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 7
+ MVP: Larry Csonka
+ Stadium: Rice Stadium
+ City: Houston
+ State: Texas
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 12-Jan-75
+ Super Bowl: IX
+ Attendance: 80997
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll 
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 16
+ Losing Quarterback: Fran Tarkenton
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 6
+ MVP: Franco Harris
+ Stadium: Tulane Stadium
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 18-Jan-76
+ Super Bowl: X
+ Attendance: 80187
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll 
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 21
+ Losing Quarterback: Roger Staubach
+ Losing Couch: Tom Landry
+ Losing Team: Dallas Cowboys
+ Losing Points: 17
+ MVP: Lynn Swann
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 9-Jan-77
+ Super Bowl: XI
+ Attendance: 103438
+ Winning Quarterback: Kenny Stabler
+ Winning Couch: John Madden
+ Winning Team: Oakland Raiders
+ Winning Points: 32
+ Losing Quarterback: Fran Tarkenton
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 14
+ MVP: Fred Biletnikoff
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 15-Jan-78
+ Super Bowl: XII
+ Attendance: 76400
+ Winning Quarterback: Roger Staubach
+ Winning Couch: Tom Landry
+ Winning Team: Dallas Cowboys
+ Winning Points: 27
+ Losing Quarterback: Craig Morton
+ Losing Couch: Red Miller
+ Losing Team: Denver Broncos
+ Losing Points: 10
+ MVP: Harvey Martin Randy White
+ Stadium: Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 21-Jan-79
+ Super Bowl: XIII
+ Attendance: 79484
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 35
+ Losing Quarterback: Roger Staubach
+ Losing Couch: Tom Landry
+ Losing Team: Dallas Cowboys
+ Losing Points: 31
+ MVP: Terry Bradshaw
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 20-Jan-80
+ Super Bowl: XIV
+ Attendance: 103985
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 31
+ Losing Quarterback: Vince Ferragamo
+ Losing Couch: Ray Malavasi
+ Losing Team: Los Angeles Rams
+ Losing Points: 19
+ MVP: Terry Bradshaw
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 25-Jan-81
+ Super Bowl: XV
+ Attendance: 76135
+ Winning Quarterback: Jim Plunkett
+ Winning Couch: Tom Flores
+ Winning Team: Oakland Raiders
+ Winning Points: 27
+ Losing Quarterback: Ron Jaworski
+ Losing Couch: Dick Vermeil
+ Losing Team: Philadelphia Eagles
+ Losing Points: 10
+ MVP: Jim Plunkett
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 24-Jan-82
+ Super Bowl: XVI
+ Attendance: 81270
+ Winning Quarterback: Joe Montana
+ Winning Couch: Bill Walsh
+ Winning Team: San Francisco 49ers
+ Winning Points: 26
+ Losing Quarterback: Ken Anderson
+ Losing Couch: Forrest Gregg
+ Losing Team: Cincinnati Bengals
+ Losing Points: 21
+ MVP: Joe Montana
+ Stadium: Pontiac Silverdome
+ City: Pontiac
+ State: Michigan
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 30-Jan-83
+ Super Bowl: XVII
+ Attendance: 103667
+ Winning Quarterback: Joe Theismann
+ Winning Couch: Joe Gibbs
+ Winning Team: Washington Redskins
+ Winning Points: 27
+ Losing Quarterback: David Woodley
+ Losing Couch: Don Shula
+ Losing Team: Miami Dolphins
+ Losing Points: 17
+ MVP: John Riggins
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 22-Jan-84
+ Super Bowl: XVIII
+ Attendance: 72920
+ Winning Quarterback: Jim Plunkett
+ Winning Couch: Tom Flores
+ Winning Team: Los Angeles Raiders
+ Winning Points: 38
+ Losing Quarterback: Joe Theismann
+ Losing Couch: Joe Gibbs
+ Losing Team: Washington Redskins
+ Losing Points: 9
+ MVP: Marcus Allen
+ Stadium: Tampa Stadium
+ City: Tampa
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 20-Jan-85
+ Super Bowl: XIX
+ Attendance: 84059
+ Winning Quarterback: Joe Montano
+ Winning Couch: Bill Walsh
+ Winning Team: San Francisco 49ers
+ Winning Points: 38
+ Losing Quarterback: Dan Marino
+ Losing Couch: Don Shula
+ Losing Team: Miami Dolphins
+ Losing Points: 16
+ MVP: Joe Montana
+ Stadium: Stanford Stadium
+ City: Palo Alto
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 26-Jan-86
+ Super Bowl: XX
+ Attendance: 73818
+ Winning Quarterback: Jim McMahon
+ Winning Couch: Mike Ditka
+ Winning Team: Chicago Bears
+ Winning Points: 46
+ Losing Quarterback: Tony Eason Steve Grogan
+ Losing Couch: Raymond Berry
+ Losing Team: New England Patriots
+ Losing Points: 10
+ MVP: Richard Dent
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 25-Jan-87
+ Super Bowl: XXI
+ Attendance: 101063
+ Winning Quarterback: Phil Simms
+ Winning Couch: Bill Parcells
+ Winning Team: New York Giants
+ Winning Points: 39
+ Losing Quarterback: John Elway
+ Losing Couch: Dan Reeves
+ Losing Team: Denver Broncos
+ Losing Points: 20
+ MVP: Phil Simms
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 31-Jan-88
+ Super Bowl: XXII
+ Attendance: 73302
+ Winning Quarterback: Doug Williams
+ Winning Couch: Joe Gibbs
+ Winning Team: Washington Redskins
+ Winning Points: 42
+ Losing Quarterback: John Elway
+ Losing Couch: Dan Reeves
+ Losing Team: Denver Broncos
+ Losing Points: 10
+ MVP: Doug Williams
+ Stadium: Jack Murphy Stadium
+ City: San Diego
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 22-Jan-89
+ Super Bowl: XXIII
+ Attendance: 75129
+ Winning Quarterback: Joe Montana
+ Winning Couch: Bill Walsh
+ Winning Team: San Francisco 49ers
+ Winning Points: 20
+ Losing Quarterback: Boomer Esiason
+ Losing Couch: Sam Wyche
+ Losing Team: Cincinnati Bengals
+ Losing Points: 16
+ MVP: Jerry Rice
+ Stadium: Joe Robbie Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 28-Jan-90
+ Super Bowl: XXIV
+ Attendance: 72919
+ Winning Quarterback: Joe Montana
+ Winning Couch: George Seifert
+ Winning Team: San Francisco 49ers
+ Winning Points: 55
+ Losing Quarterback: John Elway
+ Losing Couch: Dan Reeves
+ Losing Team: Denver Broncos
+ Losing Points: 10
+ MVP: Joe Montana
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 27-Jan-91
+ Super Bowl: XXV
+ Attendance: 73813
+ Winning Quarterback: Jeff Hostetler
+ Winning Couch: Bill Parcells
+ Winning Team: New York Giants
+ Winning Points: 20
+ Losing Quarterback: Jim Kelly
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 19
+ MVP: Ottis Anderson
+ Stadium: Tampa Stadium
+ City: Tampa
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 26-Jan-92
+ Super Bowl: XXVI
+ Attendance: 63130
+ Winning Quarterback: Mark Rypien
+ Winning Couch: Joe Gibbs
+ Winning Team: Washington Redskins
+ Winning Points: 37
+ Losing Quarterback: Jim Kelly
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 24
+ MVP: Mark Rypien
+ Stadium: Metrodome
+ City: Minneapolis
+ State: Minnesota
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 31-Jan-93
+ Super Bowl: XXVII
+ Attendance: 98374
+ Winning Quarterback: Troy Aikman
+ Winning Couch: Jimmy Johnson
+ Winning Team: Dallas Cowboys
+ Winning Points: 52
+ Losing Quarterback: Jim Kelly Frank Reich
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 17
+ MVP: Troy Aikman
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 30-Jan-94
+ Super Bowl: XXVIII
+ Attendance: 72817
+ Winning Quarterback: Troy Aikman
+ Winning Couch: Jimmy Johnson
+ Winning Team: Dallas Cowboys
+ Winning Points: 30
+ Losing Quarterback: Jim Kelly
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 13
+ MVP: Emmitt Smith
+ Stadium: Georgia Dome
+ City: Atlanta
+ State: Georgia
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 29-Jan-95
+ Super Bowl: XXIX
+ Attendance: 74107
+ Winning Quarterback: Steve Young
+ Winning Couch: George Seifert
+ Winning Team: San Francisco 49ers
+ Winning Points: 49
+ Losing Quarterback: Stan Humphreys
+ Losing Couch: Bobby Ross
+ Losing Team: San Diego Chargers
+ Losing Points: 26
+ MVP: Steve Young
+ Stadium: Joe Robbie Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 28-Jan-96
+ Super Bowl: XXX
+ Attendance: 76347
+ Winning Quarterback: Troy Aikman
+ Winning Couch: Barry Switzer
+ Winning Team: Dallas Cowboys
+ Winning Points: 27
+ Losing Quarterback: Neil O'Donnell
+ Losing Couch: Bill Cowher
+ Losing Team: Pittsburgh Steelers
+ Losing Points: 17
+ MVP: Larry Brown
+ Stadium: Sun Devil Stadium
+ City: Tempe
+ State: Arizona
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 26-Jan-97
+ Super Bowl: XXXI
+ Attendance: 72301
+ Winning Quarterback: Brett Favre
+ Winning Couch: Mike Holmgren
+ Winning Team: Green Bay Packers
+ Winning Points: 35
+ Losing Quarterback: Drew Bledsoe
+ Losing Couch: Bill Parcells
+ Losing Team: New England Patriots
+ Losing Points: 21
+ MVP: Desmond Howard
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 25-Jan-98
+ Super Bowl: XXXII
+ Attendance: 68912
+ Winning Quarterback: John Elway
+ Winning Couch: Mike Shanahan
+ Winning Team: Denver Broncos
+ Winning Points: 31
+ Losing Quarterback: Brett Favre
+ Losing Couch: Mike Holmgren
+ Losing Team: Green Bay Packers
+ Losing Points: 24
+ MVP: Terrell Davis
+ Stadium: Qualcomm Stadium
+ City: San Diego
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 31-Jan-99
+ Super Bowl: XXXIII
+ Attendance: 74803
+ Winning Quarterback: John Elway
+ Winning Couch: Mike Shanahan
+ Winning Team: Denver Broncos
+ Winning Points: 34
+ Losing Quarterback: Chris Chandler
+ Losing Couch: Dan Reeves
+ Losing Team: Atlanta Falcons
+ Losing Points: 19
+ MVP: John Elway
+ Stadium: Pro Player Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 30-Jan-00
+ Super Bowl: XXXIV
+ Attendance: 72625
+ Winning Quarterback: Kurt Warner
+ Winning Couch: Dick Vermeil
+ Winning Team: St. Louis Rams
+ Winning Points: 23
+ Losing Quarterback: Steve McNair
+ Losing Couch: Jeff Fisher
+ Losing Team: Tennessee Titans
+ Losing Points: 16
+ MVP: Kurt Warner
+ Stadium: Georgia Dome
+ City: Atlanta
+ State: Georgia
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 28-Jan-01
+ Super Bowl: XXXV
+ Attendance: 71921
+ Winning Quarterback: Trent Dilfer
+ Winning Couch: Brian Billick
+ Winning Team: Baltimore Ravens
+ Winning Points: 34
+ Losing Quarterback: Kerry Collins
+ Losing Couch: Jim Fassel
+ Losing Team: New York Giants
+ Losing Points: 7
+ MVP: Ray Lewis
+ Stadium: Raymond James Stadium
+ City: Tampa
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 3-Feb-02
+ Super Bowl: XXXVI
+ Attendance: 72922
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 20
+ Losing Quarterback: Kurt Warner
+ Losing Couch: Mike Martz
+ Losing Team: St. Louis Rams
+ Losing Points: 17
+ MVP: Tom Brady
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 26-Jan-03
+ Super Bowl: XXXVII
+ Attendance: 67603
+ Winning Quarterback: Brad Johnson
+ Winning Couch: Jon Gruden
+ Winning Team: Tampa Bay Buccaneers
+ Winning Points: 48
+ Losing Quarterback: Rich Gannon
+ Losing Couch: Bill Callahan
+ Losing Team: Oakland Raiders
+ Losing Points: 21
+ MVP: Dexter Jackson
+ Stadium: Qualcomm Stadium
+ City: San Diego
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 1-Feb-04
+ Super Bowl: XXXVIII
+ Attendance: 71525
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 32
+ Losing Quarterback: Jake Delhomme
+ Losing Couch: John Fox
+ Losing Team: Carolina Panthers
+ Losing Points: 29
+ MVP: Tom Brady
+ Stadium: Reliant Stadium
+ City: Houston
+ State: Texas
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 6-Feb-05
+ Super Bowl: XXXIX
+ Attendance: 78125
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 24
+ Losing Quarterback: Donovan McNabb
+ Losing Couch: Andy Reid
+ Losing Team: Philadelphia Eagles
+ Losing Points: 21
+ MVP: Deion Branch
+ Stadium: Alltel Stadium
+ City: Jacksonville
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 5-Feb-06
+ Super Bowl: XL
+ Attendance: 68206
+ Winning Quarterback: Ben Roethlisberger
+ Winning Couch: Bill Cowher
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 21
+ Losing Quarterback: Matt Hasselbeck
+ Losing Couch: Mike Holmgren
+ Losing Team: Seattle Seahawks
+ Losing Points: 10
+ MVP: Hines Ward
+ Stadium: Ford Field
+ City: Detroit
+ State: Michigan
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 4-Feb-07
+ Super Bowl: XLI
+ Attendance: 74512
+ Winning Quarterback: Peyton Manning
+ Winning Couch: Tony Dungy
+ Winning Team: Indianapolis Colts
+ Winning Points: 29
+ Losing Quarterback: Rex Grossman
+ Losing Couch: Lovie Smith
+ Losing Team: Chicago Bears
+ Losing Points: 17
+ MVP: Peyton Manning
+ Stadium: Dolphin Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 3-Feb-08
+ Super Bowl: XLII
+ Attendance: 71101
+ Winning Quarterback: Eli Manning
+ Winning Couch: Tom Coughlin
+ Winning Team: New York Giants
+ Winning Points: 17
+ Losing Quarterback: Tom Brady
+ Losing Couch: Bill Belichick
+ Losing Team: New England Patriots
+ Losing Points: 14
+ MVP: Eli Manning
+ Stadium: University of Phoenix Stadium
+ City: Glendale
+ State: Arizona
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 1-Feb-09
+ Super Bowl: XLIII
+ Attendance: 70774
+ Winning Quarterback: Ben Roethlisberger
+ Winning Couch: Mike Tomlin
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 27
+ Losing Quarterback: Kurt Warner
+ Losing Couch: Ken Whisenhunt
+ Losing Team: Arizona Cardinals
+ Losing Points: 23
+ MVP: Santonio Holmes
+ Stadium: Raymond James Stadium
+ City: Tampa
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 7-Feb-10
+ Super Bowl: XLIV
+ Attendance: 74059
+ Winning Quarterback: Drew Brees
+ Winning Couch: Sean Payton
+ Winning Team: New Orleans Saints
+ Winning Points: 31
+ Losing Quarterback: Peyton Manning
+ Losing Couch: Jim Caldwell
+ Losing Team: Indianapolis Colts
+ Losing Points: 17
+ MVP: Drew Brees
+ Stadium: Sun Life Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 6-Feb-11
+ Super Bowl: XLV
+ Attendance: 103219
+ Winning Quarterback: Aaron Rodgers
+ Winning Couch: Mike McCarthy
+ Winning Team: Green Bay Packers
+ Winning Points: 31
+ Losing Quarterback: Ben Roethlisberger
+ Losing Couch: Mike Tomlin
+ Losing Team: Pittsburgh Steelers
+ Losing Points: 25
+ MVP: Aaron Rodgers
+ Stadium: Cowboys Stadium
+ City: Arlington
+ State: Texas
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 5-Feb-12
+ Super Bowl: XLVI
+ Attendance: 68658
+ Winning Quarterback: Eli Manning
+ Winning Couch: Tom Coughlin
+ Winning Team: New York Giants
+ Winning Points: 21
+ Losing Quarterback: Tom Brady
+ Losing Couch: Bill Belichick
+ Losing Team: New England Patriots
+ Losing Points: 17
+ MVP: Eli Manning
+ Stadium: Lucas Oil Stadium
+ City: Indianapolis
+ State: Indiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 3-Feb-13
+ Super Bowl: XLVII
+ Attendance: 71024
+ Winning Quarterback: Joe Flacco
+ Winning Couch: John Harbaugh
+ Winning Team: Baltimore Ravens
+ Winning Points: 34
+ Losing Quarterback: Colin Kaepernick
+ Losing Couch: Jim Harbaugh
+ Losing Team: San Francisco 49ers
+ Losing Points: 31
+ MVP: Joe Flacco
+ Stadium: Mercedes-Benz Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 2-Feb-14
+ Super Bowl: XLVIII
+ Attendance: 82529
+ Winning Quarterback: Russell Wilson
+ Winning Couch: Pete Carroll
+ Winning Team: Seattle Seahawks
+ Winning Points: 43
+ Losing Quarterback: Peyton Manning
+ Losing Couch: John Fox
+ Losing Team: Denver Broncos
+ Losing Points: 8
+ MVP: Malcolm Smith
+ Stadium: MetLife Stadium
+ City: East Rutherford
+ State: New Jersey
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 1-Feb-15
+ Super Bowl: XLIX
+ Attendance: 70288
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 28
+ Losing Quarterback: Russell Wilson
+ Losing Couch: Pete Carroll
+ Losing Team: Seattle Seahawks
+ Losing Points: 24
+ MVP: Tom Brady
+ Stadium: University of Phoenix Stadium
+ City: Glendale
+ State: Arizona
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 7-Feb-16
+ Super Bowl: L 
+ Attendance: 71088
+ Winning Quarterback: Peyton Manning
+ Winning Couch: Gary Kubiak
+ Winning Team: Denver Broncos
+ Winning Points: 24
+ Losing Quarterback: Cam Newton
+ Losing Couch: Ron Rivera
+ Losing Team: Carolina Panthers
+ Losing Points: 10
+ MVP: Von Miller
+ Stadium: Levi's Stadium
+ City: Santa Clara
+ State: California
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 5-Feb-17
+ Super Bowl: LI 
+ Attendance: 70807
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 34
+ Losing Quarterback: Matt Ryan
+ Losing Couch: Dan Quinn
+ Losing Team: Atlanta Falcons
+ Losing Points: 28
+ MVP: Tom Brady
+ Stadium: NRG Stadium
+ City: Houston
+ State: Texas
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+*****TOP FIVE ATTENDENDED SUPER BOWLS*****
+
+Date: 9-Jan-77
+ Winner: Oakland Raiders
+ Loser: Minnesota Vikings
+ City: Pasadena
+ State: California103438
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 20-Jan-80
+ Winner: Pittsburgh Steelers
+ Loser: Los Angeles Rams
+ City: Pasadena
+ State: California103985
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 30-Jan-83
+ Winner: Washington Redskins
+ Loser: Miami Dolphins
+ City: Pasadena
+ State: California103667
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 25-Jan-87
+ Winner: New York Giants
+ Loser: Denver Broncos
+ City: Pasadena
+ State: California101063
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Date: 6-Feb-11
+ Winner: Green Bay Packers
+ Loser: Pittsburgh Steelers
+ City: Arlington
+ State: Texas103219
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*****ALL SUPER BOWL WINNERS*****
+
+Team: Bart Starr
+Year: 15-Jan-67
+Quarterback: Green Bay Packers
+Coach: Vince Lombardi
+MVP: Bart Starr
+Won by: 25
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Bart Starr
+Year: 14-Jan-68
+Quarterback: Green Bay Packers
+Coach: Vince Lombardi
+MVP: Bart Starr
+Won by: 19
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Namath
+Year: 12-Jan-69
+Quarterback: New York Jets
+Coach: Weeb Ewbank
+MVP: Joe Namath
+Won by: 9
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Len Dawson Mike Livingston
+Year: 11-Jan-70
+Quarterback: Kansas City Chiefs
+Coach: Hank Stram
+MVP: Len Dawson
+Won by: 16
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Earl Morrall Johnny Unitas
+Year: 17-Jan-71
+Quarterback: Baltimore Colts
+Coach: Don McCafferty
+MVP: Chuck Howley
+Won by: 3
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Roger Staubach
+Year: 16-Jan-72
+Quarterback: Dallas Cowboys
+Coach: Tom Landry
+MVP: Roger Staubach
+Won by: 21
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Bob Griese
+Year: 14-Jan-73
+Quarterback: Miami Dolphins
+Coach: Don Shula
+MVP: Jake Scott
+Won by: 7
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Bob Griese
+Year: 13-Jan-74
+Quarterback: Miami Dolphins
+Coach: Don Shula
+MVP: Larry Csonka
+Won by: 17
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Terry Bradshaw
+Year: 12-Jan-75
+Quarterback: Pittsburgh Steelers
+Coach: Chuck Noll 
+MVP: Franco Harris
+Won by: 10
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Terry Bradshaw
+Year: 18-Jan-76
+Quarterback: Pittsburgh Steelers
+Coach: Chuck Noll 
+MVP: Lynn Swann
+Won by: 4
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Kenny Stabler
+Year: 9-Jan-77
+Quarterback: Oakland Raiders
+Coach: John Madden
+MVP: Fred Biletnikoff
+Won by: 18
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Roger Staubach
+Year: 15-Jan-78
+Quarterback: Dallas Cowboys
+Coach: Tom Landry
+MVP: Harvey Martin Randy White
+Won by: 17
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Terry Bradshaw
+Year: 21-Jan-79
+Quarterback: Pittsburgh Steelers
+Coach: Chuck Noll
+MVP: Terry Bradshaw
+Won by: 4
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Terry Bradshaw
+Year: 20-Jan-80
+Quarterback: Pittsburgh Steelers
+Coach: Chuck Noll
+MVP: Terry Bradshaw
+Won by: 12
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Jim Plunkett
+Year: 25-Jan-81
+Quarterback: Oakland Raiders
+Coach: Tom Flores
+MVP: Jim Plunkett
+Won by: 17
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Montana
+Year: 24-Jan-82
+Quarterback: San Francisco 49ers
+Coach: Bill Walsh
+MVP: Joe Montana
+Won by: 5
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Theismann
+Year: 30-Jan-83
+Quarterback: Washington Redskins
+Coach: Joe Gibbs
+MVP: John Riggins
+Won by: 10
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Jim Plunkett
+Year: 22-Jan-84
+Quarterback: Los Angeles Raiders
+Coach: Tom Flores
+MVP: Marcus Allen
+Won by: 29
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Montano
+Year: 20-Jan-85
+Quarterback: San Francisco 49ers
+Coach: Bill Walsh
+MVP: Joe Montana
+Won by: 22
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Jim McMahon
+Year: 26-Jan-86
+Quarterback: Chicago Bears
+Coach: Mike Ditka
+MVP: Richard Dent
+Won by: 36
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Phil Simms
+Year: 25-Jan-87
+Quarterback: New York Giants
+Coach: Bill Parcells
+MVP: Phil Simms
+Won by: 19
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Doug Williams
+Year: 31-Jan-88
+Quarterback: Washington Redskins
+Coach: Joe Gibbs
+MVP: Doug Williams
+Won by: 32
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Montana
+Year: 22-Jan-89
+Quarterback: San Francisco 49ers
+Coach: Bill Walsh
+MVP: Jerry Rice
+Won by: 4
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Montana
+Year: 28-Jan-90
+Quarterback: San Francisco 49ers
+Coach: George Seifert
+MVP: Joe Montana
+Won by: 45
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Jeff Hostetler
+Year: 27-Jan-91
+Quarterback: New York Giants
+Coach: Bill Parcells
+MVP: Ottis Anderson
+Won by: 1
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Mark Rypien
+Year: 26-Jan-92
+Quarterback: Washington Redskins
+Coach: Joe Gibbs
+MVP: Mark Rypien
+Won by: 13
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Troy Aikman
+Year: 31-Jan-93
+Quarterback: Dallas Cowboys
+Coach: Jimmy Johnson
+MVP: Troy Aikman
+Won by: 35
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Troy Aikman
+Year: 30-Jan-94
+Quarterback: Dallas Cowboys
+Coach: Jimmy Johnson
+MVP: Emmitt Smith
+Won by: 17
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Steve Young
+Year: 29-Jan-95
+Quarterback: San Francisco 49ers
+Coach: George Seifert
+MVP: Steve Young
+Won by: 23
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Troy Aikman
+Year: 28-Jan-96
+Quarterback: Dallas Cowboys
+Coach: Barry Switzer
+MVP: Larry Brown
+Won by: 10
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Brett Favre
+Year: 26-Jan-97
+Quarterback: Green Bay Packers
+Coach: Mike Holmgren
+MVP: Desmond Howard
+Won by: 14
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: John Elway
+Year: 25-Jan-98
+Quarterback: Denver Broncos
+Coach: Mike Shanahan
+MVP: Terrell Davis
+Won by: 7
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: John Elway
+Year: 31-Jan-99
+Quarterback: Denver Broncos
+Coach: Mike Shanahan
+MVP: John Elway
+Won by: 15
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Kurt Warner
+Year: 30-Jan-00
+Quarterback: St. Louis Rams
+Coach: Dick Vermeil
+MVP: Kurt Warner
+Won by: 7
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Trent Dilfer
+Year: 28-Jan-01
+Quarterback: Baltimore Ravens
+Coach: Brian Billick
+MVP: Ray Lewis
+Won by: 27
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Tom Brady
+Year: 3-Feb-02
+Quarterback: New England Patriots
+Coach: Bill Belichick
+MVP: Tom Brady
+Won by: 3
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Brad Johnson
+Year: 26-Jan-03
+Quarterback: Tampa Bay Buccaneers
+Coach: Jon Gruden
+MVP: Dexter Jackson
+Won by: 27
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Tom Brady
+Year: 1-Feb-04
+Quarterback: New England Patriots
+Coach: Bill Belichick
+MVP: Tom Brady
+Won by: 3
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Tom Brady
+Year: 6-Feb-05
+Quarterback: New England Patriots
+Coach: Bill Belichick
+MVP: Deion Branch
+Won by: 3
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Ben Roethlisberger
+Year: 5-Feb-06
+Quarterback: Pittsburgh Steelers
+Coach: Bill Cowher
+MVP: Hines Ward
+Won by: 11
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Peyton Manning
+Year: 4-Feb-07
+Quarterback: Indianapolis Colts
+Coach: Tony Dungy
+MVP: Peyton Manning
+Won by: 12
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Eli Manning
+Year: 3-Feb-08
+Quarterback: New York Giants
+Coach: Tom Coughlin
+MVP: Eli Manning
+Won by: 3
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Ben Roethlisberger
+Year: 1-Feb-09
+Quarterback: Pittsburgh Steelers
+Coach: Mike Tomlin
+MVP: Santonio Holmes
+Won by: 4
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Drew Brees
+Year: 7-Feb-10
+Quarterback: New Orleans Saints
+Coach: Sean Payton
+MVP: Drew Brees
+Won by: 14
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Aaron Rodgers
+Year: 6-Feb-11
+Quarterback: Green Bay Packers
+Coach: Mike McCarthy
+MVP: Aaron Rodgers
+Won by: 6
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Eli Manning
+Year: 5-Feb-12
+Quarterback: New York Giants
+Coach: Tom Coughlin
+MVP: Eli Manning
+Won by: 4
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Joe Flacco
+Year: 3-Feb-13
+Quarterback: Baltimore Ravens
+Coach: John Harbaugh
+MVP: Joe Flacco
+Won by: 3
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Russell Wilson
+Year: 2-Feb-14
+Quarterback: Seattle Seahawks
+Coach: Pete Carroll
+MVP: Malcolm Smith
+Won by: 35
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Tom Brady
+Year: 1-Feb-15
+Quarterback: New England Patriots
+Coach: Bill Belichick
+MVP: Tom Brady
+Won by: 4
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Peyton Manning
+Year: 7-Feb-16
+Quarterback: Denver Broncos
+Coach: Gary Kubiak
+MVP: Von Miller
+Won by: 14
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Team: Tom Brady
+Year: 5-Feb-17
+Quarterback: New England Patriots
+Coach: Bill Belichick
+MVP: Tom Brady
+Won by: 6
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+*****STATE THAT HAS HOSTED THE MOST SUPER BOWLS*****
+
+
+City: Miami
+ State: Florida
+ Stadium: Orange Bowl
+ Date: 14-Jan-68
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami
+ State: Florida
+ Stadium: Orange Bowl
+ Date: 12-Jan-69
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami
+ State: Florida
+ Stadium: Orange Bowl
+ Date: 17-Jan-71
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami
+ State: Florida
+ Stadium: Orange Bowl
+ Date: 18-Jan-76
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami
+ State: Florida
+ Stadium: Orange Bowl
+ Date: 21-Jan-79
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Tampa
+ State: Florida
+ Stadium: Tampa Stadium
+ Date: 22-Jan-84
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami Gardens
+ State: Florida
+ Stadium: Joe Robbie Stadium
+ Date: 22-Jan-89
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Tampa
+ State: Florida
+ Stadium: Tampa Stadium
+ Date: 27-Jan-91
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami Gardens
+ State: Florida
+ Stadium: Joe Robbie Stadium
+ Date: 29-Jan-95
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami Gardens
+ State: Florida
+ Stadium: Pro Player Stadium
+ Date: 31-Jan-99
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Tampa
+ State: Florida
+ Stadium: Raymond James Stadium
+ Date: 28-Jan-01
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Jacksonville
+ State: Florida
+ Stadium: Alltel Stadium
+ Date: 6-Feb-05
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami Gardens
+ State: Florida
+ Stadium: Dolphin Stadium
+ Date: 4-Feb-07
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Tampa
+ State: Florida
+ Stadium: Raymond James Stadium
+ Date: 1-Feb-09
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+City: Miami Gardens
+ State: Florida
+ Stadium: Sun Life Stadium
+ Date: 7-Feb-10
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+*****MVPS THAT HAVE WON MVP MORE THAN TWICE*****
+
+MVP: Joe Montana
+ Winning Team: San Francisco 49ers
+ Losing Team: Cincinnati Bengals
+ Date: 24-Jan-82
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+MVP: Joe Montana
+ Winning Team: San Francisco 49ers
+ Losing Team: Miami Dolphins
+ Date: 20-Jan-85
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+MVP: Joe Montana
+ Winning Team: San Francisco 49ers
+ Losing Team: Denver Broncos
+ Date: 28-Jan-90
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+MVP: Tom Brady
+ Winning Team: New England Patriots
+ Losing Team: St. Louis Rams
+ Date: 3-Feb-02
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+MVP: Tom Brady
+ Winning Team: New England Patriots
+ Losing Team: Carolina Panthers
+ Date: 1-Feb-04
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+MVP: Tom Brady
+ Winning Team: New England Patriots
+ Losing Team: Seattle Seahawks
+ Date: 1-Feb-15
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+*****QUESTIONS*****
+
+Which coach lost the most super bowls?
+=======================================
+{ Value = Don Shula, Count = 4 }
+
+Which coach won the most super bowls?
+=======================================
+{ Value = Bill Belichick, Count = 5 }
+
+Which team(s) won the most super bowls?
+=======================================
+{ Value = Pittsburgh Steelers, Count = 6 }
+
+Which team(s) lost the most super bowls?
+========================================
+{ Value = Denver Broncos, Count = 5 }
+
+Which Super bowl had the greatest point difference?
+===================================================
+
+Super Bowl: XXIV Point Difference: { Value = 45, Count = 45 }
+
+What is the average attendance of all super bowls?
+==================================================
+77648.96

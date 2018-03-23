@@ -1,0 +1,882 @@
+Date: 15-Jan-67
+ Super Bowl: I
+ Attendance: 61946
+ Winning Quarterback: Bart Starr
+ Winning Couch: Vince Lombardi
+ Winning Team: Green Bay Packers
+ Winning Points: 35
+ Losing Quarterback: Len Dawson
+ Losing Couch: Hank Stram
+ Losing Team: Kansas City Chiefs
+ Losing Points: 10
+ MVP: Bart Starr
+ Stadium: Memorial Coliseum
+ City: Los Angeles
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 14-Jan-68
+ Super Bowl: II
+ Attendance: 75546
+ Winning Quarterback: Bart Starr
+ Winning Couch: Vince Lombardi
+ Winning Team: Green Bay Packers
+ Winning Points: 33
+ Losing Quarterback: Daryle Lamonica 
+ Losing Couch: John Rauch
+ Losing Team: Oakland Raiders
+ Losing Points: 14
+ MVP: Bart Starr
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 12-Jan-69
+ Super Bowl: III
+ Attendance: 75389
+ Winning Quarterback: Joe Namath
+ Winning Couch: Weeb Ewbank
+ Winning Team: New York Jets
+ Winning Points: 16
+ Losing Quarterback: Earl Morrall Johnny Unitas
+ Losing Couch: Don Shula
+ Losing Team: Baltimore Colts
+ Losing Points: 7
+ MVP: Joe Namath
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 11-Jan-70
+ Super Bowl: IV
+ Attendance: 80562
+ Winning Quarterback: Len Dawson Mike Livingston
+ Winning Couch: Hank Stram
+ Winning Team: Kansas City Chiefs
+ Winning Points: 23
+ Losing Quarterback: Joe Kapp
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 7
+ MVP: Len Dawson
+ Stadium: Tulane Stadium
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 17-Jan-71
+ Super Bowl: V
+ Attendance: 79204
+ Winning Quarterback: Earl Morrall Johnny Unitas
+ Winning Couch: Don McCafferty
+ Winning Team: Baltimore Colts
+ Winning Points: 16
+ Losing Quarterback: Craig Morton
+ Losing Couch: Tom Landry
+ Losing Team: Dallas Cowboys
+ Losing Points: 13
+ MVP: Chuck Howley
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 16-Jan-72
+ Super Bowl: VI
+ Attendance: 81023
+ Winning Quarterback: Roger Staubach
+ Winning Couch: Tom Landry
+ Winning Team: Dallas Cowboys
+ Winning Points: 24
+ Losing Quarterback: Bob Griese
+ Losing Couch: Don Shula
+ Losing Team: Miami Dolphins
+ Losing Points: 3
+ MVP: Roger Staubach
+ Stadium: Tulane Stadium
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 14-Jan-73
+ Super Bowl: VII
+ Attendance: 90182
+ Winning Quarterback: Bob Griese
+ Winning Couch: Don Shula
+ Winning Team: Miami Dolphins
+ Winning Points: 14
+ Losing Quarterback: Bill Kilmer
+ Losing Couch: George Allen
+ Losing Team: Washington Redskins
+ Losing Points: 7
+ MVP: Jake Scott
+ Stadium: Memorial Coliseum
+ City: Los Angeles
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 13-Jan-74
+ Super Bowl: VIII
+ Attendance: 71882
+ Winning Quarterback: Bob Griese
+ Winning Couch: Don Shula
+ Winning Team: Miami Dolphins
+ Winning Points: 24
+ Losing Quarterback: Fran Tarkenton
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 7
+ MVP: Larry Csonka
+ Stadium: Rice Stadium
+ City: Houston
+ State: Texas
+
+
+_____________________________________________________________________________________________________________________
+Date: 12-Jan-75
+ Super Bowl: IX
+ Attendance: 80997
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll 
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 16
+ Losing Quarterback: Fran Tarkenton
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 6
+ MVP: Franco Harris
+ Stadium: Tulane Stadium
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 18-Jan-76
+ Super Bowl: X
+ Attendance: 80187
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll 
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 21
+ Losing Quarterback: Roger Staubach
+ Losing Couch: Tom Landry
+ Losing Team: Dallas Cowboys
+ Losing Points: 17
+ MVP: Lynn Swann
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 9-Jan-77
+ Super Bowl: XI
+ Attendance: 103438
+ Winning Quarterback: Kenny Stabler
+ Winning Couch: John Madden
+ Winning Team: Oakland Raiders
+ Winning Points: 32
+ Losing Quarterback: Fran Tarkenton
+ Losing Couch: Bud Grant
+ Losing Team: Minnesota Vikings
+ Losing Points: 14
+ MVP: Fred Biletnikoff
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 15-Jan-78
+ Super Bowl: XII
+ Attendance: 76400
+ Winning Quarterback: Roger Staubach
+ Winning Couch: Tom Landry
+ Winning Team: Dallas Cowboys
+ Winning Points: 27
+ Losing Quarterback: Craig Morton
+ Losing Couch: Red Miller
+ Losing Team: Denver Broncos
+ Losing Points: 10
+ MVP: Harvey Martin Randy White
+ Stadium: Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 21-Jan-79
+ Super Bowl: XIII
+ Attendance: 79484
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 35
+ Losing Quarterback: Roger Staubach
+ Losing Couch: Tom Landry
+ Losing Team: Dallas Cowboys
+ Losing Points: 31
+ MVP: Terry Bradshaw
+ Stadium: Orange Bowl
+ City: Miami
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 20-Jan-80
+ Super Bowl: XIV
+ Attendance: 103985
+ Winning Quarterback: Terry Bradshaw
+ Winning Couch: Chuck Noll
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 31
+ Losing Quarterback: Vince Ferragamo
+ Losing Couch: Ray Malavasi
+ Losing Team: Los Angeles Rams
+ Losing Points: 19
+ MVP: Terry Bradshaw
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 25-Jan-81
+ Super Bowl: XV
+ Attendance: 76135
+ Winning Quarterback: Jim Plunkett
+ Winning Couch: Tom Flores
+ Winning Team: Oakland Raiders
+ Winning Points: 27
+ Losing Quarterback: Ron Jaworski
+ Losing Couch: Dick Vermeil
+ Losing Team: Philadelphia Eagles
+ Losing Points: 10
+ MVP: Jim Plunkett
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 24-Jan-82
+ Super Bowl: XVI
+ Attendance: 81270
+ Winning Quarterback: Joe Montana
+ Winning Couch: Bill Walsh
+ Winning Team: San Francisco 49ers
+ Winning Points: 26
+ Losing Quarterback: Ken Anderson
+ Losing Couch: Forrest Gregg
+ Losing Team: Cincinnati Bengals
+ Losing Points: 21
+ MVP: Joe Montana
+ Stadium: Pontiac Silverdome
+ City: Pontiac
+ State: Michigan
+
+
+_____________________________________________________________________________________________________________________
+Date: 30-Jan-83
+ Super Bowl: XVII
+ Attendance: 103667
+ Winning Quarterback: Joe Theismann
+ Winning Couch: Joe Gibbs
+ Winning Team: Washington Redskins
+ Winning Points: 27
+ Losing Quarterback: David Woodley
+ Losing Couch: Don Shula
+ Losing Team: Miami Dolphins
+ Losing Points: 17
+ MVP: John Riggins
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 22-Jan-84
+ Super Bowl: XVIII
+ Attendance: 72920
+ Winning Quarterback: Jim Plunkett
+ Winning Couch: Tom Flores
+ Winning Team: Los Angeles Raiders
+ Winning Points: 38
+ Losing Quarterback: Joe Theismann
+ Losing Couch: Joe Gibbs
+ Losing Team: Washington Redskins
+ Losing Points: 9
+ MVP: Marcus Allen
+ Stadium: Tampa Stadium
+ City: Tampa
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 20-Jan-85
+ Super Bowl: XIX
+ Attendance: 84059
+ Winning Quarterback: Joe Montano
+ Winning Couch: Bill Walsh
+ Winning Team: San Francisco 49ers
+ Winning Points: 38
+ Losing Quarterback: Dan Marino
+ Losing Couch: Don Shula
+ Losing Team: Miami Dolphins
+ Losing Points: 16
+ MVP: Joe Montana
+ Stadium: Stanford Stadium
+ City: Palo Alto
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 26-Jan-86
+ Super Bowl: XX
+ Attendance: 73818
+ Winning Quarterback: Jim McMahon
+ Winning Couch: Mike Ditka
+ Winning Team: Chicago Bears
+ Winning Points: 46
+ Losing Quarterback: Tony Eason Steve Grogan
+ Losing Couch: Raymond Berry
+ Losing Team: New England Patriots
+ Losing Points: 10
+ MVP: Richard Dent
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 25-Jan-87
+ Super Bowl: XXI
+ Attendance: 101063
+ Winning Quarterback: Phil Simms
+ Winning Couch: Bill Parcells
+ Winning Team: New York Giants
+ Winning Points: 39
+ Losing Quarterback: John Elway
+ Losing Couch: Dan Reeves
+ Losing Team: Denver Broncos
+ Losing Points: 20
+ MVP: Phil Simms
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 31-Jan-88
+ Super Bowl: XXII
+ Attendance: 73302
+ Winning Quarterback: Doug Williams
+ Winning Couch: Joe Gibbs
+ Winning Team: Washington Redskins
+ Winning Points: 42
+ Losing Quarterback: John Elway
+ Losing Couch: Dan Reeves
+ Losing Team: Denver Broncos
+ Losing Points: 10
+ MVP: Doug Williams
+ Stadium: Jack Murphy Stadium
+ City: San Diego
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 22-Jan-89
+ Super Bowl: XXIII
+ Attendance: 75129
+ Winning Quarterback: Joe Montana
+ Winning Couch: Bill Walsh
+ Winning Team: San Francisco 49ers
+ Winning Points: 20
+ Losing Quarterback: Boomer Esiason
+ Losing Couch: Sam Wyche
+ Losing Team: Cincinnati Bengals
+ Losing Points: 16
+ MVP: Jerry Rice
+ Stadium: Joe Robbie Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 28-Jan-90
+ Super Bowl: XXIV
+ Attendance: 72919
+ Winning Quarterback: Joe Montana
+ Winning Couch: George Seifert
+ Winning Team: San Francisco 49ers
+ Winning Points: 55
+ Losing Quarterback: John Elway
+ Losing Couch: Dan Reeves
+ Losing Team: Denver Broncos
+ Losing Points: 10
+ MVP: Joe Montana
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 27-Jan-91
+ Super Bowl: XXV
+ Attendance: 73813
+ Winning Quarterback: Jeff Hostetler
+ Winning Couch: Bill Parcells
+ Winning Team: New York Giants
+ Winning Points: 20
+ Losing Quarterback: Jim Kelly
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 19
+ MVP: Ottis Anderson
+ Stadium: Tampa Stadium
+ City: Tampa
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 26-Jan-92
+ Super Bowl: XXVI
+ Attendance: 63130
+ Winning Quarterback: Mark Rypien
+ Winning Couch: Joe Gibbs
+ Winning Team: Washington Redskins
+ Winning Points: 37
+ Losing Quarterback: Jim Kelly
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 24
+ MVP: Mark Rypien
+ Stadium: Metrodome
+ City: Minneapolis
+ State: Minnesota
+
+
+_____________________________________________________________________________________________________________________
+Date: 31-Jan-93
+ Super Bowl: XXVII
+ Attendance: 98374
+ Winning Quarterback: Troy Aikman
+ Winning Couch: Jimmy Johnson
+ Winning Team: Dallas Cowboys
+ Winning Points: 52
+ Losing Quarterback: Jim Kelly Frank Reich
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 17
+ MVP: Troy Aikman
+ Stadium: Rose Bowl
+ City: Pasadena
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 30-Jan-94
+ Super Bowl: XXVIII
+ Attendance: 72817
+ Winning Quarterback: Troy Aikman
+ Winning Couch: Jimmy Johnson
+ Winning Team: Dallas Cowboys
+ Winning Points: 30
+ Losing Quarterback: Jim Kelly
+ Losing Couch: Marv Levy
+ Losing Team: Buffalo Bills
+ Losing Points: 13
+ MVP: Emmitt Smith
+ Stadium: Georgia Dome
+ City: Atlanta
+ State: Georgia
+
+
+_____________________________________________________________________________________________________________________
+Date: 29-Jan-95
+ Super Bowl: XXIX
+ Attendance: 74107
+ Winning Quarterback: Steve Young
+ Winning Couch: George Seifert
+ Winning Team: San Francisco 49ers
+ Winning Points: 49
+ Losing Quarterback: Stan Humphreys
+ Losing Couch: Bobby Ross
+ Losing Team: San Diego Chargers
+ Losing Points: 26
+ MVP: Steve Young
+ Stadium: Joe Robbie Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 28-Jan-96
+ Super Bowl: XXX
+ Attendance: 76347
+ Winning Quarterback: Troy Aikman
+ Winning Couch: Barry Switzer
+ Winning Team: Dallas Cowboys
+ Winning Points: 27
+ Losing Quarterback: Neil O'Donnell
+ Losing Couch: Bill Cowher
+ Losing Team: Pittsburgh Steelers
+ Losing Points: 17
+ MVP: Larry Brown
+ Stadium: Sun Devil Stadium
+ City: Tempe
+ State: Arizona
+
+
+_____________________________________________________________________________________________________________________
+Date: 26-Jan-97
+ Super Bowl: XXXI
+ Attendance: 72301
+ Winning Quarterback: Brett Favre
+ Winning Couch: Mike Holmgren
+ Winning Team: Green Bay Packers
+ Winning Points: 35
+ Losing Quarterback: Drew Bledsoe
+ Losing Couch: Bill Parcells
+ Losing Team: New England Patriots
+ Losing Points: 21
+ MVP: Desmond Howard
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 25-Jan-98
+ Super Bowl: XXXII
+ Attendance: 68912
+ Winning Quarterback: John Elway
+ Winning Couch: Mike Shanahan
+ Winning Team: Denver Broncos
+ Winning Points: 31
+ Losing Quarterback: Brett Favre
+ Losing Couch: Mike Holmgren
+ Losing Team: Green Bay Packers
+ Losing Points: 24
+ MVP: Terrell Davis
+ Stadium: Qualcomm Stadium
+ City: San Diego
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 31-Jan-99
+ Super Bowl: XXXIII
+ Attendance: 74803
+ Winning Quarterback: John Elway
+ Winning Couch: Mike Shanahan
+ Winning Team: Denver Broncos
+ Winning Points: 34
+ Losing Quarterback: Chris Chandler
+ Losing Couch: Dan Reeves
+ Losing Team: Atlanta Falcons
+ Losing Points: 19
+ MVP: John Elway
+ Stadium: Pro Player Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 30-Jan-00
+ Super Bowl: XXXIV
+ Attendance: 72625
+ Winning Quarterback: Kurt Warner
+ Winning Couch: Dick Vermeil
+ Winning Team: St. Louis Rams
+ Winning Points: 23
+ Losing Quarterback: Steve McNair
+ Losing Couch: Jeff Fisher
+ Losing Team: Tennessee Titans
+ Losing Points: 16
+ MVP: Kurt Warner
+ Stadium: Georgia Dome
+ City: Atlanta
+ State: Georgia
+
+
+_____________________________________________________________________________________________________________________
+Date: 28-Jan-01
+ Super Bowl: XXXV
+ Attendance: 71921
+ Winning Quarterback: Trent Dilfer
+ Winning Couch: Brian Billick
+ Winning Team: Baltimore Ravens
+ Winning Points: 34
+ Losing Quarterback: Kerry Collins
+ Losing Couch: Jim Fassel
+ Losing Team: New York Giants
+ Losing Points: 7
+ MVP: Ray Lewis
+ Stadium: Raymond James Stadium
+ City: Tampa
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 3-Feb-02
+ Super Bowl: XXXVI
+ Attendance: 72922
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 20
+ Losing Quarterback: Kurt Warner
+ Losing Couch: Mike Martz
+ Losing Team: St. Louis Rams
+ Losing Points: 17
+ MVP: Tom Brady
+ Stadium: Louisiana Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 26-Jan-03
+ Super Bowl: XXXVII
+ Attendance: 67603
+ Winning Quarterback: Brad Johnson
+ Winning Couch: Jon Gruden
+ Winning Team: Tampa Bay Buccaneers
+ Winning Points: 48
+ Losing Quarterback: Rich Gannon
+ Losing Couch: Bill Callahan
+ Losing Team: Oakland Raiders
+ Losing Points: 21
+ MVP: Dexter Jackson
+ Stadium: Qualcomm Stadium
+ City: San Diego
+ State: California
+
+
+_____________________________________________________________________________________________________________________
+Date: 1-Feb-04
+ Super Bowl: XXXVIII
+ Attendance: 71525
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 32
+ Losing Quarterback: Jake Delhomme
+ Losing Couch: John Fox
+ Losing Team: Carolina Panthers
+ Losing Points: 29
+ MVP: Tom Brady
+ Stadium: Reliant Stadium
+ City: Houston
+ State: Texas
+
+
+_____________________________________________________________________________________________________________________
+Date: 6-Feb-05
+ Super Bowl: XXXIX
+ Attendance: 78125
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 24
+ Losing Quarterback: Donovan McNabb
+ Losing Couch: Andy Reid
+ Losing Team: Philadelphia Eagles
+ Losing Points: 21
+ MVP: Deion Branch
+ Stadium: Alltel Stadium
+ City: Jacksonville
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 5-Feb-06
+ Super Bowl: XL
+ Attendance: 68206
+ Winning Quarterback: Ben Roethlisberger
+ Winning Couch: Bill Cowher
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 21
+ Losing Quarterback: Matt Hasselbeck
+ Losing Couch: Mike Holmgren
+ Losing Team: Seattle Seahawks
+ Losing Points: 10
+ MVP: Hines Ward
+ Stadium: Ford Field
+ City: Detroit
+ State: Michigan
+
+
+_____________________________________________________________________________________________________________________
+Date: 4-Feb-07
+ Super Bowl: XLI
+ Attendance: 74512
+ Winning Quarterback: Peyton Manning
+ Winning Couch: Tony Dungy
+ Winning Team: Indianapolis Colts
+ Winning Points: 29
+ Losing Quarterback: Rex Grossman
+ Losing Couch: Lovie Smith
+ Losing Team: Chicago Bears
+ Losing Points: 17
+ MVP: Peyton Manning
+ Stadium: Dolphin Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 3-Feb-08
+ Super Bowl: XLII
+ Attendance: 71101
+ Winning Quarterback: Eli Manning
+ Winning Couch: Tom Coughlin
+ Winning Team: New York Giants
+ Winning Points: 17
+ Losing Quarterback: Tom Brady
+ Losing Couch: Bill Belichick
+ Losing Team: New England Patriots
+ Losing Points: 14
+ MVP: Eli Manning
+ Stadium: University of Phoenix Stadium
+ City: Glendale
+ State: Arizona
+
+
+_____________________________________________________________________________________________________________________
+Date: 1-Feb-09
+ Super Bowl: XLIII
+ Attendance: 70774
+ Winning Quarterback: Ben Roethlisberger
+ Winning Couch: Mike Tomlin
+ Winning Team: Pittsburgh Steelers
+ Winning Points: 27
+ Losing Quarterback: Kurt Warner
+ Losing Couch: Ken Whisenhunt
+ Losing Team: Arizona Cardinals
+ Losing Points: 23
+ MVP: Santonio Holmes
+ Stadium: Raymond James Stadium
+ City: Tampa
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 7-Feb-10
+ Super Bowl: XLIV
+ Attendance: 74059
+ Winning Quarterback: Drew Brees
+ Winning Couch: Sean Payton
+ Winning Team: New Orleans Saints
+ Winning Points: 31
+ Losing Quarterback: Peyton Manning
+ Losing Couch: Jim Caldwell
+ Losing Team: Indianapolis Colts
+ Losing Points: 17
+ MVP: Drew Brees
+ Stadium: Sun Life Stadium
+ City: Miami Gardens
+ State: Florida
+
+
+_____________________________________________________________________________________________________________________
+Date: 6-Feb-11
+ Super Bowl: XLV
+ Attendance: 103219
+ Winning Quarterback: Aaron Rodgers
+ Winning Couch: Mike McCarthy
+ Winning Team: Green Bay Packers
+ Winning Points: 31
+ Losing Quarterback: Ben Roethlisberger
+ Losing Couch: Mike Tomlin
+ Losing Team: Pittsburgh Steelers
+ Losing Points: 25
+ MVP: Aaron Rodgers
+ Stadium: Cowboys Stadium
+ City: Arlington
+ State: Texas
+
+
+_____________________________________________________________________________________________________________________
+Date: 5-Feb-12
+ Super Bowl: XLVI
+ Attendance: 68658
+ Winning Quarterback: Eli Manning
+ Winning Couch: Tom Coughlin
+ Winning Team: New York Giants
+ Winning Points: 21
+ Losing Quarterback: Tom Brady
+ Losing Couch: Bill Belichick
+ Losing Team: New England Patriots
+ Losing Points: 17
+ MVP: Eli Manning
+ Stadium: Lucas Oil Stadium
+ City: Indianapolis
+ State: Indiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 3-Feb-13
+ Super Bowl: XLVII
+ Attendance: 71024
+ Winning Quarterback: Joe Flacco
+ Winning Couch: John Harbaugh
+ Winning Team: Baltimore Ravens
+ Winning Points: 34
+ Losing Quarterback: Colin Kaepernick
+ Losing Couch: Jim Harbaugh
+ Losing Team: San Francisco 49ers
+ Losing Points: 31
+ MVP: Joe Flacco
+ Stadium: Mercedes-Benz Superdome
+ City: New Orleans
+ State: Louisiana
+
+
+_____________________________________________________________________________________________________________________
+Date: 2-Feb-14
+ Super Bowl: XLVIII
+ Attendance: 82529
+ Winning Quarterback: Russell Wilson
+ Winning Couch: Pete Carroll
+ Winning Team: Seattle Seahawks
+ Winning Points: 43
+ Losing Quarterback: Peyton Manning
+ Losing Couch: John Fox
+ Losing Team: Denver Broncos
+ Losing Points: 8
+ MVP: Malcolm Smith
+ Stadium: MetLife Stadium
+ City: East Rutherford
+ State: New Jersey
+
+
+_____________________________________________________________________________________________________________________
+Date: 1-Feb-15
+ Super Bowl: XLIX
+ Attendance: 70288
+ Winning Quarterback: Tom Brady
+ Winning Couch: Bill Belichick
+ Winning Team: New England Patriots
+ Winning Points: 28
+ Losing Quarterback: Russell Wilson
+ Losing Couch: Pete Carroll
+ Losing Team: Seattle Seahawks
+ Losing Points: 24
+ MVP: Tom Brady
+ Stadium: University of Phoenix Stadium
+ City: Glendale
+ State: Arizona
+
+
+____________________________________________________
